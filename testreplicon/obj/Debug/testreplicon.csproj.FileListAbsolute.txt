@@ -1,0 +1,5 @@
+D:\net project\testreplicon\testreplicon\bin\Debug\testreplicon.exe.config
+D:\net project\testreplicon\testreplicon\bin\Debug\testreplicon.exe
+D:\net project\testreplicon\testreplicon\bin\Debug\testreplicon.pdb
+D:\net project\testreplicon\testreplicon\obj\Debug\testreplicon.exe
+D:\net project\testreplicon\testreplicon\obj\Debug\testreplicon.pdb
